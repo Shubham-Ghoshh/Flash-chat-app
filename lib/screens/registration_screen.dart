@@ -130,11 +130,3 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
     );
   }
 }
-
-//
-// SignInButton(
-// "Register",
-// Colors.lightBlueAccent,
-// Colors.white,
-// () {},
-// ),
